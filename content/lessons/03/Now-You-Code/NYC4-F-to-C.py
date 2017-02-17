@@ -18,3 +18,9 @@ you'll need to solve the problem!
 '''
 
 # TODO: Write Todo list then beneath write your code
+#(°F - 32) x 5/9 = °C
+#(°C × 9/5) + 32 = °F
+temperature_in_deg_F=float(input("Enter the temperature in deg F here"))
+temperature_in_deg_C=((temperature_in_deg_F-32))*5/9
+print("temperature_in_deg_C is %.2f" % (temperature_in_deg_C))
+ 

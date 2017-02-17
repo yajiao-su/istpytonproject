@@ -19,3 +19,8 @@ you'll need to solve the problem!
 
 # TODO: Write Todo list then beneath write your code
 
+distance_feet=float(input("Enter the distance in feet here"))
+distance_yards = (distance_feet / 3.0)
+distance_miles = (distance_feet / 5280.0)
+print("Distance in yards is %.2f" % distance_yards)
+print("Distance is miles is %.2f" % distance_miles)
