@@ -32,4 +32,23 @@ you'll need to solve the problem!
 import random
 number = random.randint(1,100) # random number between 1-100
 print("I'm thinking of a number between 1 and 100...")
+count=0
+while True: 
+    try:
+        guess=input("Enter your guess here")
+        count=count+1
+        guess=int(guess)
+        if guess==number:
+            print("You guessed it in",count,"tries")
+            break
+        elif 1<guess<number:
+            print("Your guess: %d" %(guess))
+            print("You guessed too low. Guess higher.")
+        elif number<guess<100:
+            print("Your guess: %d" %(guess))
+            print("You guessed too high. Guess lower.")
+        else: 
+            print("that's not in the range")
+    except:
+            print("that's not a number")
         
