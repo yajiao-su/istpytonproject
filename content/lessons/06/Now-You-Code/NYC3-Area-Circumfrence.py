@@ -39,5 +39,28 @@ you'll need to solve the problem!
 '''
 
 # TODO: Write Todo list then beneath write your code
-
+#input the radius of a circle
+#use the equation to get the area and the circumference 
+#area=πr2
 # Write code here 
+import math
+def cal_area(r):
+    cal_area=math.pi*r**2
+    return cal_area
+def cal_circ(r):
+    cal_circ=2*math.pi*r
+    return cal_circ
+
+
+try:
+    r=float(input("Enter radius here:"))
+    cal_area=cal_area(r)
+    
+    cal_circ=cal_circ(r)
+    print("A circle with radius %.3f has an area of %.3f and a circumference of %.3f." %(r,cal_area,cal_circ))
+except:
+    print ("that can't be convert to a float.")
+    
+  
+    
+    

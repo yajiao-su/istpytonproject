@@ -35,6 +35,22 @@ you'll need to solve the problem!
 '''
 
 # TODO: Write Todo list then beneath write your code
-
+#Input the character
+#Input text
+#define a function to count characters in the text
 
 # Write code here 
+def char_in_text(character,text):
+    count=0
+    for i in range(0,len(text)):
+        if character==text[i]:
+            count=count+1
+        else:
+            continue
+    return count
+
+
+character=str(input("enter the character here:"))
+text=str(input("Enter the text here."))
+count=char_in_text(character,text)
+print("the character %s appears %d times in the text." %(character,count))
