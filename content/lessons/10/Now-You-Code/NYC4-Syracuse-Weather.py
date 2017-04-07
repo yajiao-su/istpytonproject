@@ -19,6 +19,27 @@ and then print out the dictionary like this:
 '''
 
 # TODO: Write Todo list then beneath write your code
-
+#import json
+#write a function
+#input the file
+#enumerate the data
 
 # Write code here
+import json
+
+def document():
+    f=open("NYC4-syr-weather-dec-2015.json",encoding='utf8')
+    file=f.read
+    load=json.loads(file)
+    return load
+data=document()
+
+abovef=0
+belowf=0
+
+for i in data:
+    if (i.get("Mean TemperatureF",0)<=32):
+        abovef+=1
+    else:
+        belowf+=1
+print("In avarage daily temperature, there are %d days are above freezing and %d days are below freezing." %(above,belowf))
