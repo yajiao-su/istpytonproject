@@ -1,0 +1,40 @@
+Sports,Name,Email
+AIKIDO,Mellissa Gerwitz,aikidoatsu@gmail.com
+BADMINTON,Tony Shi,subadminton@gmail.com
+BALLROOM DANCE,Michael Senatore,bdosyracuse@gmail.com
+BASEBALL,Matt Neumann,syracuseclubbaseball@gmail.com
+BASKETBALL,Charles Garrett,cuseclubball@gmail.com
+BOWLING,Simon Weschler,subc.syr@gmail.com
+BOXING,Marcus Bentzen ,boxingclubsu@gmail.com
+BREAKDANCE-FREESTYLE SQUAD,Tuduo Danzeng,su.breakdancers@gmail.com
+CRICKET,Thushanth Pillai,letsplaycricket.su@gmail.com
+CYCLING,Amanda Tomasello,sucyclingclub@gmail.com
+EQUESTRIAN,Kathryn Krawczyk,suenglishequestrian@gmail.com
+FIELD HOCKEY,Michael Dillon,syracusehockey@gmail.com
+FIGURE SKATING,Tori DeGrazio,orangeexperience@gmail.com
+GOLF,Michael Passalacqua,mpassala@syr.edu
+GYMNASTICS,Matt Lobenhofer,sumesgymnastics@gmail.com
+ICE HOCKEY,Rachael Cambell,suwomenshockey@gmail.com
+JUDO,Wyatt Suling,syracusejudoclub@gmail.com
+KENDO,David Wang,syracusekendo@gmail.com
+LACROSSE,Albert DiPasquale,cuseclubacrosse3013@gmail.com
+OUTING CLUB,Theresa O’Brien,suoutingclub1935@gmail.com
+QUIDDITCH,Jennifer Bideaus,syracusequidditch@gmail.com
+ROLLER HOCKEY,Ryan Dunn,rarozenb@syr.edu
+RUGBY,Shannon Cellan,suwomensrugbyfc@gmail.com
+RUNNING ,Jacob Ferree,syracuserunclub@gmail.com
+SAILING,Alberto Rivera,syracuse.sailing@gmail.com
+SHOTOKAN,Alex Szuba,SUShotokan@gmail.com
+SKI RACING,Jared Balkind,susrc01@gmail.com
+SOCCER,Rachael Becker,suwomensclubsoccer@gmail.com
+SOCCER(WINTER),Rachael Becker,suwomensclubsoccer@gmail.com
+SOFTBALL,Rachael Morgan Joe Amedro ,su.softballclub@gmail.com
+SWIMMING,Joe Amedro,suclubswim@gmail.com
+SWING,Joe Nasta,suwingclub@gmail.com
+TABLE TENNIS,Jason Zou,SuTableTennisClub@gmail.com
+TENNIS,Erin Moore ,suclubtennis@gmail.com
+TRIATHLON,Julia Jesse,sutriclub@gmail.com
+ULTIMATE FRISBEE,Scott Slutsky,dommcaptains@gmail.com
+VOLLEYBALL,Thomas Duszkiewicz,CuseMensVolleyball@gmail.com
+WATERPOLO,Michael Ennis,cusemenswaterpolo@gmail.com
+WRESTING,Jeffrey Gould,jegould@syr.edu
